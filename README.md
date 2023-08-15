@@ -67,7 +67,7 @@ To utilize the character-level language model code provided in this repository, 
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/yourusername/Language-Model-with-RNN-LSTM.git
+   git clone https://github.com/AriolaLeka/Language-Model-with-RNN-LSTM.git
 
 2. **Navigate to the Project Directory:**
 
@@ -75,6 +75,4 @@ To utilize the character-level language model code provided in this repository, 
 
 3. **Run the Python Script:**
 
-Inside the project directory, you will find the Python script file, such as `language model with RNN:LSTM.py`. This script contains the code for training and generating text using the character-level language model.
-
-   python language_model.py
+   python language model with RNN:LSTM.py
